@@ -1,0 +1,12 @@
+# Ignorar Makefile
+Makefile
+
+# Ignorar el ejecutable 'run'
+run
+
+# Ignorar la carpeta .git (nunca se sube al repositorio)
+.git
+
+# Ignorar la carpeta .vscode
+.vscode
+
